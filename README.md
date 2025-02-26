@@ -2,6 +2,4 @@
 
 Tested on physical iPhone SE (3rd generation). Nothing appears in the `console.log` and no `alert` is presented for any of the event handlers.
 
-## Demo
-
-<video src='demo.mov' width=180/>
+[Demo video](https://github.com/carter-0/true-sheet-repro/raw/refs/heads/master/demo.mov)
